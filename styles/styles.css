@@ -19,6 +19,40 @@
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
+  /* colors from icici direct website */
+  --main-bg-color-dark: #202124;
+  --main-color-dark: #e8eaed;
+  --main-bg-color-light: #f5f5f5;
+  --main-color-light: #202124;
+  --accent-color: #2263a4;
+  --accent-color-1: #f1f0ab;
+  --primary: #4D5DFF;
+  --primary-hover: #424ED2;
+  --primary-pressed: #3742A9;
+  --primary-light: #DBDFFF;
+  --primary-light-hover: #CBD0FF;
+  --primary-light-pressed: #B4BBFF;
+  --red: #FC0404;
+  --red-hover: #FC3434;
+  --red-pressed: #FD5D5D;
+  --red-hover2: #E40505;
+  --red-pressed2: #CD0707;
+  --red-light: #FECDCD;
+  --green: #0CAD39;
+  --green-light: #CEEFD7;
+  --grayscale-gs-primary: #232329;
+  --primary-2: #43434E;
+  --black: #111;
+  --grayscale-gs-secondary-1: #68687B;
+  --grayscale-gs-secondary-2: #A1A1AF;
+  --grayscale-gs-tetriary-1: #B0B0BC;
+  --grayscale-gs-tetriary-2: #D0D0D7;
+  --grayscale-gs-quarterly-1: #DFDFE4;
+  --grayscale-gs-background-darker: #F3F4F7;
+  --grayscale-gs-background: #FAFAFA;
+  --grayscale-gs-quarterly-2: #FDFDFD;
+  --grayscale-gs-white: #FFF;
+
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
   --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
